@@ -20,7 +20,7 @@ This is very similar to the naming convention when working with CSS.
        I used both JavaScript and Ruby to get this application started. I used JavaScript to save the data to an object where then I parsed through it with 3 recursive methods that were coded in Ruby.
        I hadn't used recursive methods in a decent amount of time so I looked more into them again to bring me up to speed with what the assignment needed
        
-       **Future Features**
+       ***Future Features***
        
        I would like to add testing to this application because I feel like it would better practice the common development process.
        
